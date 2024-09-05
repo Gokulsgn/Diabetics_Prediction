@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pickle
-import matplotlib.pyplot as plt
 
 # Load the machine learning model
 model_filename = 'diabetes.pkl'
